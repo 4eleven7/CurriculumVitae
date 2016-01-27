@@ -38,8 +38,7 @@ Passionate about working on products that allow people using the app to better t
 ### Experience
 
 #### Burberry
-*11/15 - 02/16*   
-**Swift**, tvOS,  XCTest, Storyboards, AVKit, IBInspectable   
+11/15 - 02/16   
 Lead developer (on a team of 2) on [Burberry App for Apple TV](http://www.burberryplc.com/media_centre/press_releases/2016/burberry_launches_on_apple_tv).   
 
 Burberry's first ever app.   
@@ -47,9 +46,10 @@ Liaised and met regularly with Apple UK to create a bespoke Apple TV app.
 Featured completely custom interface, with interactive transitions, live event countdown/stream, and a custom video player (split screen product details with video loops). Built with test driven development, and using Storyboards to reduce the amount of visual code we needed to produce.    
 Adapted and learnt quickly as tvOS lacks a lot of the features iOS has, and uses a new indirect interaction model called ‘focus’.
 
+**Swift**, tvOS,  XCTest, Storyboards, AVKit, IBInspectable   
+
 #### Elbi
-*05/15 - 10/15*   
-**Swift & Objective-C**, iOS, XCTest, CoreData, modules, Cocoapods, Storyboards, IBInspectable.   
+05/15 - 10/15   
 Lead developer on [‘Elbi - good on the go’](https://itunes.apple.com/app/elbi-good-on-the-go/id958215274?mt=8).   
 
 Quick micro-actions and donations to bring charities into 21st century.   
@@ -58,26 +58,27 @@ Sole developer for the first 4 months, with another contractor coming in to assi
 The simple app, featured an increasing amount of complexity, from custom transitions/animations, to a draw/vote/message/photo tool.    
 Deadlines set based on an external event (Clintons Global Initiative), rather than the work load, ensured we had to be pragmatic and extremely agile.   
 
+**Swift & Objective-C**, iOS, XCTest, CoreData, modules, Cocoapods, Storyboards, IBInspectable.   
 
 #### Vubiquity
-*09/14 - 04/15*   
-**Swift**, iOS, MS PlayReady DRM, test driven development, CoreData, modules, build servers, push notifications.   
+09/14 - 04/15   
 
 After Vubiquity purchased FilmFlex, they removed all apps, and started building a video on demand platform.   
 We used the latest technology, building multiple prototypes for the sales team. Using a modular design, built to be customised by a CMS, modules such as vouchers, or download manager, could be replaced or removed without requiring developer resource.
 
+**Swift**, iOS, MS PlayReady DRM, test driven development, CoreData, modules, build servers, push notifications.   
 
 #### FilmFlex Movies
-*04/12 - 09/14*   
-**Objective-C**, iOS, ActiveCloak DRM, CoreData.   
+04/12 - 09/14   
 
 Built a video on demand application, ready to be customised and styled for brands.   
 Featured a store, rentals, offline downloads & file management, ActiveCloak DRM, and bespoke features for clients, such as cinema listings, 2 for 1 cinema vouchers, and live video stream of the BAFTAs.   
 Also built a prototype inflight entertainment system    
 
+**Objective-C**, iOS, ActiveCloak DRM, CoreData.   
+
 #### Zolmo
-*07/10 - 03/12*   
-**Objective-C**, iOS, CoreData, CoreText, CoreGraphics.    
+07/10 - 03/12   
 Lead developer on [Jamie Oliver’s Recipes](https://itunes.apple.com/gb/app/jamies-recipes/id398011800?mt=8).
 
 Fully customised interface, while matching the feel and experience of the standard UIKit controls.    
@@ -87,22 +88,24 @@ The app was one of the first cooking apps to feature many new features such as i
 Over 10 million active users (as of December 2013).   
 Multiple awards. Various adverts/press from Apple.
 
+**Objective-C**, iOS, CoreData, CoreText, CoreGraphics.    
+
 #### BBC
-*04/09 - 12/09*   
+04/09 - 12/09   
 
 Created the BBC iPlayer for the Nintendo Wii. We matched the native Nintendo Wii gestures and conventions.
 
 #### AKQA
-*02/08 - 04/09*   
+02/08 - 04/09   
 
 Worked on various client projects, such as Ferrari, Fiat and Nike.
 
 #### John Brown Publishing
-*05/07 - 02/08*   
+05/07 - 02/08   
 
 Worked on various client projects, such as Rolls-Royce, Honda F1, Sunseeker, RedBull, and BBC,
 
 #### Fingal Creative Communications
-*11/06 - 05/07*   
+11/06 - 05/07   
 
 Worked on various client projects, such as Silverstone Racing Circuit, JCD, British Touring Cars, and Amber Lounge.
